@@ -29,9 +29,7 @@
 </div>
 
 <div align="center">
-<div align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdolfoDev10.AdolfoDev10)
-</div>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdolfoDev10.AdolfoDev10" alt="visitor badge"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
