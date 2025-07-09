@@ -29,9 +29,9 @@
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=adolfodev10&label=Profile%20Views&color=1&icon=8&pretty=false" />
-  </a>
+<div align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdolfoDev10.AdolfoDev10)
+</div>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
