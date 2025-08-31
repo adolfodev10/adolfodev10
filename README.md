@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up!?,+I+am+Adolfo+Manuel+😎;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+like+Web+Development+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=adolfodev10&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Adolfo Manuel" /> 
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfodev10&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=adolfodev10&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Adolfo Manuel" /> 
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfodev10&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -24,8 +24,12 @@
 ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/adolfo-manuel-3b178827b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:adolfomanueldev10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adolfo-manuel-3b178827b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:adolfomanueldev10@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <div align="center">
