@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up!?,+I+am+Adolfo+Manuel+😎;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+like+Web+Development+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=AdolfoDev10&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Adolfo Manuel" /> 
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoDev10&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=adolfodev10&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Adolfo Manuel" /> 
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfodev10&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfoDev10&theme=dark&background=0d1117&hide_border=false&border=0050b2"/>
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfodev10&theme=dark&background=0d1117&hide_border=false&border=0050b2"/>
 </div>
 
 <div align="center"><br>
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=AdolfoDev10.AdolfoDev10" alt="visitor badge"/>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=adolfodev10.adolfodev10" alt="visitor badge"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
